@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAMMAD ARFAT</h1>
-<h3 align="center">MERN Stack Developer | competitive programmer</h3>
+<h3 align="center">MERN Stack Developer | Competitive Programmer</h3>
 
 - 📫 How to reach me **mdarfatyunus@gmail.com**
 
