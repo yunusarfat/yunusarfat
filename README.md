@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MOHAMMAD ARFAT</h1>
 <h3 align="center">MERN Stack Developer | Competitive Programmer</h3>
-- 👨‍💻 All of my projects are available at https://portfolio-yunusarfat.vercel.app/<br/>
-- 📫 How to reach me mdarfatyunus@gmail.com
+- 👨‍💻 MY portfolio link: https://portfolio-yunusarfat.vercel.app/<br/>
+- 📫 How to reach me: mdarfatyunus@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
